@@ -1,5 +1,16 @@
 # Lost-Found iOS App
+
+
+<p align="center">
+  <img width="300" height="300" src="resources/logo.jpg">
+</p>
+
+
+
 My Computer Science Final Project. An iOS App for uploading all kind of items you have lost/found. 
+
+
+
 
 
 ## Description :memo:
@@ -14,7 +25,6 @@ This project was developed as my final's degree project, which was developed dur
 ### Screens
 
 ![](resources/screenshots.jpg)
-
 
 ## Getting Started :movie_camera:
 
