@@ -1,47 +1,53 @@
 # Lost-Found iOS App
 My Computer Science Final Project. An iOS App for uploading all kind of items you have lost/found. 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-### Prerequisites
-What things you need to install the software and how to install them
-```
-Give examples
-```
-### Installing
-A step by step series of examples that tell you have to get a development env running
-Say what the step will be
-```
-Give the example
-```
-And repeat
-```
-until finished
-```
-End with an example of getting some data out of the system or using it for a little demo
-## Running the tests
-Explain how to run the automated tests for this system
-### Break down into end to end tests
-Explain what these tests test and why
-```
-Give an example
-```
-### And coding style tests
-Explain what these tests test and why
-```
-Give an example
-```
-## Deployment
-Add additional notes about how to deploy this on a live system
-## Built With
 
-## Contributors
+
+## Description :memo:
+
+This project was developed as my final's degree project, which was developed during approximately half a year, with the guidance of a senior iOS developer, from who I could learn (and apply) the newest, and most used patterns and structures (such as MVVM or Coordination Pattern).
+
+
+
+## Demo :iphone:
+
+
+## Getting Started :movie_camera:
+
+To get a copy of the project up and running of your local machine, you will need a MacOS environment with  Xcode installed (latest version preferred).
+
+
+### Installing
+
+After the project is downloaded, to load it you just have to double click on the .xcworkspace file to launch the project with Xcode. Then choose the way you want to execute the application (for example, on the Iphone Simulator).
+
+Consider it will take some time to get the project (and libraries) fully indexed.
+
+## Libraries :books:
+
+There were many libraries used in the development of this project:
+
+- Simple side/slide menu control for iOS [SideMenu](https://github.com/jonkykong/SideMenu)
+- Tool to enforce Swift style and conventions.[Swiftlint](https://github.com/realm/SwiftLint)
+- Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+- Flexible view and view controller presentation library for iOS [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
+- DSL to make Auto Layout easy on both iOS and OS X. [SnapKit v.5](https://github.com/SnapKit/SnapKit)
+- A clean and lightweight progress HUD for your iOS and tvOS app [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+- Swift image slideshow with circular scrolling, timer and full screen viewer [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow)
+
+- The database, authentication and storage infrastructure backed by Google, [Firebase](https://firebase.google.com)
+- GeoFire for Objective-C - Realtime location queries with Firebase, [Geofire](https://github.com/firebase/geofire-objc)
+- A lightweight, pure-Swift library for downloading and caching images from the web, [Kingfisher](https://github.com/onevcat/Kingfisher)
+
+
+## Contributors :octocat:
+
+The main contributor for this project was my brother, and senior developer, Dani, who helped and guided me through almost all of the development process.
+
 * [Daniel Bolivar](https://github.com/potajedehabichuelas) - Daniel Bolivar Github Site
 
-## Versioning
-For the versions available, see the [tags on this repository](https://github.com/Brolivar/Lost-Found/tags). 
+
 ## Authors
-* **Jose Bolivar** - *Initial work* - [Lost&Found App](https://github.com/Brolivar/Lost-Found)
-## License
+* **Jose Bolivar** - *Initial work* - [Lost&Found App](https://github.com/Brolivar/Lost-Found-Public)
 
 ## Acknowledgments
 As always, great utility came from great sites:
@@ -51,13 +57,17 @@ As always, great utility came from great sites:
 * https://stackoverflow.com/
 * https://nshipster.com
 * https://medium.com/swift-programming
+* https://www.raywenderlich.com
 
-As well as sources of code and frameworks:
-
-* https://github.com/jonkykong/SideMenu
-* https://github.com/realm/SwiftLint
-* https://github.com/hackiftekhar/IQKeyboardManager
-* https://github.com/onevcat/Kingfisher
 
 App Icons provided by:
+
 * https://icons8.com/icons
+* https://www.flaticon.com
+* https://www.freepik.com
+
+## License :mag:
+
+This application is released under MIT(see [LICENSE](https://github.com/Brolivar/Lost-Found-Public/blob/master/LICENSE). Some of the used libraries are used libraries are released under different licenses.
+
+
