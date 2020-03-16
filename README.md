@@ -13,7 +13,7 @@ This project was developed as my final's degree project, which was developed dur
 
 ### Screens
 
-
+![](resources/screenshots.jpg)
 
 
 ## Getting Started :movie_camera:
