@@ -11,9 +11,14 @@ This project was developed as my final's degree project, which was developed dur
 ## Demo :iphone:
 
 
+### Screens
+
+
+
+
 ## Getting Started :movie_camera:
 
-To get a copy of the project up and running of your local machine, you will need a MacOS environment with  Xcode installed (latest version preferred).
+To get a copy of the project up and running of your local machine, you will need a MacOS environment with  ```Xcode``` installed (latest version preferred).
 
 
 ### Installing
