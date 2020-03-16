@@ -51,7 +51,7 @@ The main contributor for this project was my brother, and senior developer, Dani
 * [Daniel Bolivar](https://github.com/potajedehabichuelas) - Daniel Bolivar Github Site
 
 
-## Authors
+## Authors :squirrel:
 * **Jose Bolivar** - *Initial work* - [Lost&Found App](https://github.com/Brolivar/Lost-Found-Public)
 
 ## Acknowledgments
