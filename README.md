@@ -26,17 +26,17 @@ Consider it will take some time to get the project (and libraries) fully indexed
 
 There were many libraries used in the development of this project:
 
-- Simple side/slide menu control for iOS [SideMenu](https://github.com/jonkykong/SideMenu)
-- Tool to enforce Swift style and conventions.[Swiftlint](https://github.com/realm/SwiftLint)
-- Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
-- Flexible view and view controller presentation library for iOS [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
-- DSL to make Auto Layout easy on both iOS and OS X. [SnapKit v.5](https://github.com/SnapKit/SnapKit)
-- A clean and lightweight progress HUD for your iOS and tvOS app [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
-- Swift image slideshow with circular scrolling, timer and full screen viewer [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow)
+- Simple side/slide menu control for iOS: [SideMenu](https://github.com/jonkykong/SideMenu)
+- Tool to enforce Swift style and conventions: [Swiftlint](https://github.com/realm/SwiftLint)
+- Codeless drop-in universal library allows to prevent issues of keyboard sliding up: [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+- Flexible view and view controller presentation library for iOS: [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
+- DSL to make Auto Layout easy on both iOS and OS X: [SnapKit v.5](https://github.com/SnapKit/SnapKit)
+- A clean and lightweight progress HUD for your iOS and tvOS App: [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+- Swift image slideshow with circular scrolling, timer and full screen viewer:ß [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow)
 
-- The database, authentication and storage infrastructure backed by Google, [Firebase](https://firebase.google.com)
-- GeoFire for Objective-C - Realtime location queries with Firebase, [Geofire](https://github.com/firebase/geofire-objc)
-- A lightweight, pure-Swift library for downloading and caching images from the web, [Kingfisher](https://github.com/onevcat/Kingfisher)
+- The database, authentication and storage infrastructure backed by Google: [Firebase](https://firebase.google.com)
+- GeoFire for Objective-C - Realtime location queries with Firebase: [Geofire](https://github.com/firebase/geofire-objc)
+- A lightweight, pure-Swift library for downloading and caching images from the web: [Kingfisher](https://github.com/onevcat/Kingfisher)
 
 
 ## Contributors :octocat:
@@ -68,6 +68,6 @@ App Icons provided by:
 
 ## License :mag:
 
-This application is released under MIT(see [LICENSE](https://github.com/Brolivar/Lost-Found-Public/blob/master/LICENSE). Some of the used libraries are used libraries are released under different licenses.
+This application is released under MIT(see [LICENSE](https://github.com/Brolivar/Lost-Found-Public/blob/master/LICENSE)). Some of the used libraries are used libraries are released under different licenses.
 
 
