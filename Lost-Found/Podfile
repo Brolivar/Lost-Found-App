@@ -1,0 +1,46 @@
+# Uncomment the next line to define a global platform for your project
+	
+	source 'https://github.com/CocoaPods/Specs.git'
+	platform :ios, '10.0'
+
+	target 'Lost-Found' do
+
+ 	  use_frameworks!
+
+	  pod 'SideMenu', '~> 6.0.9'
+	  pod 'SwiftLint'
+	  pod 'IQKeyboardManagerSwift'
+	  pod 'SwiftMessages'
+    	  pod 'SnapKit', '~> 5.0.0'
+	  pod 'SVProgressHUD'
+	  pod 'Firebase/Database'
+	  pod 'Firebase/Analytics'
+	  pod 'Firebase/Storage'
+	  pod 'Firebase/Auth'
+	  pod 'GoogleSignIn'
+	  pod 'ImageSlideshow', '~> 1.8.1'
+	  pod "ImageSlideshow/Kingfisher"
+	  pod 'FacebookCore'
+	  pod 'FacebookLogin'
+	  pod 'FacebookShare'
+
+	  # Commented cause incompatibility with Firebase due to repo bug	  
+	  # pod 'GeoFire', '~> 3.0' 
+	  # So before Firebase guys publish the latest release and fix the CocoaPods 	
+          # distribution, we have to specify the branch like this:
+
+	  pod 'GeoFire', :git => 'https://github.com/firebase/geofire-objc.git', :branch => 'master'
+	
+	  # Pods for Lost-Found
+	
+	  target 'Lost-FoundTests' do
+	    inherit! :search_paths
+	    # Pods for testing
+	  end
+	
+	  target 'Lost-FoundUITests' do
+	    inherit! :search_paths
+	    # Pods for testing
+	  end
+	
+	end

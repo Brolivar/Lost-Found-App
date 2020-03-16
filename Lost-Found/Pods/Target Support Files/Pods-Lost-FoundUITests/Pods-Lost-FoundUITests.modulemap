@@ -1,0 +1,6 @@
+framework module Pods_Lost_FoundUITests {
+  umbrella header "Pods-Lost-FoundUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
