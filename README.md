@@ -25,6 +25,14 @@ This project was developed as my final's degree project, which was developed dur
 ### Screens
 
 
+
+<p align="center">
+  <img width="350" height="600" src="resources/Screenshot1.png">
+    <img width="350" height="600" src="resources/Screenshot2.png">
+    <img width="350" height="600" src="resources/Screenshot3.png">
+</p>
+
+
 ## Getting Started :movie_camera:
 
 To get a copy of the project up and running of your local machine, you will need a MacOS environment with  ```Xcode``` installed (latest version preferred).
