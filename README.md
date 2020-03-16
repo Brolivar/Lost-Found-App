@@ -18,7 +18,7 @@ To get a copy of the project up and running of your local machine, you will need
 
 ### Installing
 
-After the project is downloaded, to load it you just have to double click on the .xcworkspace file to launch the project with Xcode. Then choose the way you want to execute the application (for example, on the Iphone Simulator).
+After the project is downloaded, to load it you just have to double click on the ```.xcworkspace``` file to launch the project with Xcode. Then choose the way you want to execute the application (for example, on the Iphone Simulator).
 
 Consider it will take some time to get the project (and libraries) fully indexed.
 
