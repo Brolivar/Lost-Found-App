@@ -6,11 +6,7 @@
 </p>
 
 
-
 My Computer Science Final Project. An iOS App for uploading all kind of items you have lost/found. 
-
-
-
 
 
 ## :memo: Description 
