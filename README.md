@@ -24,7 +24,7 @@ This project was developed as my final's degree project, which was developed dur
 
 :white_check_mark: The item info and thumbnails have each a different pagination, to optimize the usage of user's data.
 
-:white_check_mark: Item's data such as thumbnails and images are cached in the device (using both Firebase Persistence and Kingfisher).
+:white_check_mark: The thumbnails, and item's image are cached in device to avoid redownloading (props to Kingfisher).
 
 :white_check_mark: Tap any item to go to its single view, with all the info associated to it.
 
@@ -32,9 +32,13 @@ This project was developed as my final's degree project, which was developed dur
 
 :white_check_mark: Create new items with its own images, location... and add it to the timeline.
 
-:white_check_mark: Filter menu; capable of filtering items by its category (lost, found and adoption), subcategory (jewelry, pets, books...) and location.
+:white_check_mark: Filter menu; capable of filterin items by its category (lost, found and adoption), subcategory (jewelry, pets, books...) and location.
 
 :white_check_mark: User profile with its items created.
+
+:white_check_mark: Real-time chat user to user, to contact with the item publisher directly and privately.
+
+:white_check_mark: Push Notifications using Firebase Cloud Messaging.
 
 
 
@@ -43,12 +47,7 @@ This project was developed as my final's degree project, which was developed dur
 
 
 
-
-:black_square_button: Chat to contact with other item's owner (notifications as well).
-
-:black_square_button: Expand the user profile section, adding the functionality to modify and delete items, user information, and user thumbnail.
-
-:black_square_button: Leave just the "Lost" and "Found" categories, and take the "Adoption" category to make another app just for pet adoption (based on the other one).
+:black_square_button: Take away completely the "adoption" category (leaving just Lost and found categories in the app). This is intented to apart from publishing the lost & found app, publish another app just for pet adoption, based on the finished lost & found one.
 
 :black_square_button: Final UI redesign; having a cleaner and smoother interface to fully satisfy the upcoming real users.
 
@@ -80,7 +79,7 @@ There were many libraries used in the development of this project:
 - A clean and lightweight progress HUD for your iOS and tvOS App: [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
 - Swift image slideshow with circular scrolling, timer and full screen viewer: [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow)
 
-- The database, authentication and storage infrastructure backed by Google: [Firebase](https://firebase.google.com)
+- The databases, notifications, authentication and storage infrastructure backed by Google: [Firebase](https://firebase.google.com)
 - GeoFire for Objective-C - Realtime location queries with Firebase: [Geofire](https://github.com/firebase/geofire-objc)
 - A lightweight, pure-Swift library for downloading and caching images from the web: [Kingfisher](https://github.com/onevcat/Kingfisher)
 
