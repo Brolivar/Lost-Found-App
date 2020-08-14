@@ -63,6 +63,8 @@ After the project is downloaded, to load it you just have to double click on the
 
 Consider it will take some time to get the project (and libraries) fully indexed.
 
+NOTE: This is an old, un updated version, many of the functionalities (such as notifications, real-time chat) and UI redesign are not available here. New updated modules will be uploaded as the app is released to the App Store.
+
 ## :books: Libraries 
 
 There were many libraries used in the development of this project:
