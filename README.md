@@ -80,7 +80,7 @@ There were many libraries used in the development of this project:
 - The databases, notifications, authentication and storage infrastructure backed by Google: [Firebase](https://firebase.google.com)
 - GeoFire for Objective-C - Realtime location queries with Firebase: [Geofire](https://github.com/firebase/geofire-objc)
 - A lightweight, pure-Swift library for downloading and caching images from the web: [Kingfisher](https://github.com/onevcat/Kingfisher)
-
+- A community-driven replacement for JSQMessagesViewController, used for the UI implementation of the real-time chat: [Messagekit](https://github.com/MessageKit/MessageKit)
 
 ## :busts_in_silhouette: Contributors 
 
