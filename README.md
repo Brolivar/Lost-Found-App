@@ -13,6 +13,8 @@ My Computer Science Final Project. An iOS App for uploading all kind of items yo
 
 This project was developed as my final's degree project, which was developed during approximately half a year, with the guidance of a senior iOS developer, from who I could learn (and apply) the newest, and most used patterns and structures (such as MVVM or Coordination Pattern).
 
+NOTE: This is an old, un updated version, many of the functionalities (such as notifications, real-time chat) and UI redesign are not available here. New updated modules will be uploaded as the app is released to the App Store.
+
 
 ### Features
 
@@ -62,8 +64,6 @@ To get a copy of the project up and running of your local machine, you will need
 After the project is downloaded, to load it you just have to double click on the ```.xcworkspace``` file to launch the project with Xcode. Then choose the way you want to execute the application (for example, on the Iphone Simulator).
 
 Consider it will take some time to get the project (and libraries) fully indexed.
-
-NOTE: This is an old, un updated version, many of the functionalities (such as notifications, real-time chat) and UI redesign are not available here. New updated modules will be uploaded as the app is released to the App Store.
 
 ## :books: Libraries 
 
