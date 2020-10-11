@@ -8,7 +8,7 @@
 
 My Computer Science Final Project. An iOS App for uploading all kind of items you have lost/found. 
 
-App available on the [App Store](https://apps.apple.com/us/app/id1534211046)
+App available on the [App Store](https://apps.apple.com/us/app/id1534211046).
 
 ## :memo: Description 
 
