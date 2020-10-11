@@ -14,7 +14,7 @@ App available on the [App Store](https://apps.apple.com/us/app/id1534211046).
 
 This project was developed as my final's degree project, starting on June 2019, with the guidance of a senior iOS developer, from who I could learn (and apply) the newest, and most used patterns and structures (such as MVVM or Coordination Pattern).
 
-NOTE: This is an old, un updated version, many of the functionalities (such as notifications, real-time chat) and UI redesign are not available here. New updated modules will be uploaded soon as the released version gets updated.
+NOTE: This is an old, un updated version, many of the functionalities (such as notifications, real-time chat) and UI redesign are not available here. New updated modules will be uploaded soon, as the released version gets updated.
 
 
 ### Features
